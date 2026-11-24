@@ -29,3 +29,5 @@ LOD2: 10 mil triángulos, 2048x2048
 
 IMÁGENES:
 ![LOD0](Content/Imagenes/IMAGEN1.png)
+![LOD2](Content/Imagenes/IMAGEN2.png)
+![UNREAL](Content/Imagenes/IMAGEN3.png)
