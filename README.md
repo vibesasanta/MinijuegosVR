@@ -28,3 +28,4 @@ LOD1: 1,9 Millones de triángulos, resolución 8192x8192
 LOD2: 10 mil triángulos, 2048x2048
 
 IMÁGENES:
+![LOD0](Content/Imagenes/IMAGEN1.png)
