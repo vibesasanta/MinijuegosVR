@@ -20,3 +20,11 @@ Mesa preparada para juntar todas las partes de mr potato
 Implementado un sofa para romper junto a una almadena
 
 
+
+PRACTICA FOTOGRAMETRIA
+Zapatilla deportiva, 228 fotos, la escala es una zapatilla de pie 42, que es aproximadamente 26-27cm
+LOD0: 2,3 Millones de triángulos, resolución 8192x8192
+LOD1: 1,9 Millones de triángulos, resolución 8192x8192
+LOD2: 10 mil triángulos, 2048x2048
+
+IMÁGENES:
